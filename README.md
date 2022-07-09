@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on DS/A
 - 🌱 I’m currently reading 
-    - DDIA (Martin Kleppmann)
+    - [x] DDIA (Martin Kleppmann)
+    - [x] CTCI
 - 🤔 Next I’m planning on working through
     - SICP (Sussman and Abelson)
     - EPI (Aziz, Prakash, and Lee)
