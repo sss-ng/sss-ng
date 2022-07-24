@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on DS/A
 - 🌱 I’m currently reading 
+    - [x] Philosophy of Software Design (John Ousterhout)
     - [x] DDIA (Martin Kleppmann)
     - [x] CTCI
 - 🤔 Next I’m planning on working through
