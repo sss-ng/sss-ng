@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on DS/A
 - 🌱 I’m currently reading 
+    - [ ] SICP (Sussman and Abelson)
     - [x] Philosophy of Software Design (John Ousterhout)
     - [x] DDIA (Martin Kleppmann)
     - [x] CTCI
 - 🤔 Next I’m planning on working through
-    - SICP (Sussman and Abelson)
     - EPI (Aziz, Prakash, and Lee)
 
 
