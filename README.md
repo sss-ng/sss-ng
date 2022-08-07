@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on DS/A
 - 🌱 I’m currently reading 
     - [ ] SICP (Sussman and Abelson)
+- 💬 Recently finished reading
     - [x] Philosophy of Software Design (John Ousterhout)
     - [x] DDIA (Martin Kleppmann)
     - [x] CTCI
