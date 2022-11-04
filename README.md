@@ -5,13 +5,16 @@
 
 - 🔭 I’m currently working on DS/A
 - 🌱 I’m currently reading 
-    - [ ] SICP (Sussman and Abelson)
+    - Crafting Interpreters
 - 💬 Recently finished reading
     - [x] Philosophy of Software Design (John Ousterhout)
     - [x] DDIA (Martin Kleppmann)
     - [x] CTCI
-- 🤔 Next I’m planning on working through
-    - EPI (Aziz, Prakash, and Lee)
+- 🤔 Sometime Id like to read
+    - SICP (Sussman and Abelson)
+    - EPI
+    - Functional Programming in Scala
+    - CODE
 
 
 
