@@ -4,13 +4,15 @@
 
 
 - 🔭 I’m currently working on DS/A
-- 🌱 I’m currently reading 
-    - Crafting Interpreters
+- 🌱 I’m currently reading
+    - [ ] Advanced Programming in the Unix Environment
 - 💬 Recently finished reading
+    - [x] Computer Networking: A Top Down Approach (Jim Kurose)
+    - [x] Crafting Interpreters
     - [x] Philosophy of Software Design (John Ousterhout)
     - [x] DDIA (Martin Kleppmann)
     - [x] CTCI
-- 🤔 Sometime Id like to read
+- 🤔 Sometime I'd like to read
     - SICP (Sussman and Abelson)
     - EPI
     - Functional Programming in Scala
