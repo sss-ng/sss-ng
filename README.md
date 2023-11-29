@@ -8,8 +8,12 @@
     - software design
     - CI/CD and DevOps
 - 🌱 I’m currently reading
-    - [ ] Advanced Programming in the Unix Environment
+    - [ ] Cryptography I (Daniel Boneh)
 - 💬 I recently finished reading
+    - [x] Cryptography I (Daniel Boneh)
+    - [x] CODE - The Hidden Language of Computer Hardware and Software (Charles Petzold)
+    - [x] The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (Simon Singh)
+    - [x] Advanced Programming in the Unix Environment
     - [x] Computer Networking: A Top Down Approach (Jim Kurose)
     - [x] Crafting Interpreters
     - [x] Philosophy of Software Design (John Ousterhout)
@@ -18,7 +22,6 @@
 - 🤔 I'm planning on reading
     - SICP (Sussman and Abelson)
     - Functional Programming in Scala
-    - CODE
     - EPI
 
 
