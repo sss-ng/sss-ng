@@ -8,7 +8,7 @@
     - software design
     - CI/CD and DevOps
 - 🌱 I’m currently reading
-    - [ ] Cryptography I (Daniel Boneh)
+    - Functional Programming in Scala 2nd Edition
 - 💬 I recently finished reading
     - [x] Cryptography I (Daniel Boneh)
     - [x] CODE - The Hidden Language of Computer Hardware and Software (Charles Petzold)
